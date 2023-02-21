@@ -1,27 +1,22 @@
+Many thanks to Shape and Shift. This test task has been heavily inspired by their test task. You can find their test task here: [Shape and Shift Test Task](https://github.com/Shape-and-Shift/shopware-test-task)
+
 # Shopware 6 Branches Entity Test Task
 
-first of all  you very much for your job application. 
+Thanks for your interest to join Villa Schmidt as a Developer! We are excited to get to know you better and would like to ask you to complete the following test task. As our store is based on Shopware 6, we would like to see how you work with this system. Please read the following instructions carefully and follow them. If you have any questions, please do not hesitate to contact us.
 
-We really appreciate your interest in working at Shape & Shift! We would like to know more about your development skills and have a closer look at them. I would like to send you a backend task to find out your skills. Hoping that is okay for you.
-
-Also, what is your salary expectations and when would be the earliest possible date to start?
-
-Please use for further communication hello@shapeandshift.dev
-
-### What are we acutally doing?
-As a small team we're working within the background for primarily German [Shopware 6](https://www.shopware.com/en/) agencies as an experienced external team.
-[Shopware 6](https://www.shopware.com/en/) is a headless E-Commerce System based on Symfony 4 & Vue.js for the administration
-and Bootstrap, ES6 and Twig for the Storefront.
+### Shopware 6
+[Shopware 6](https://www.shopware.com/en/) is a headless E-Commerce System based on Symfony 4 & Vue.js for the administration and Bootstrap, ES6 and Twig for the Storefront. Shopware 6 is a very quickly growing system and they have received an investment of 100 million euros suggesting that they are going to be a big player in the E-Commerce market in the future. Therefore, I am sure that independent of your decision to join us, you will find this small task an interesting and enriching experience.
 
 You can head over to the [Shopware 6 Documentation](https://docs.shopware.com/en/shopware-platform-dev-en) to take a closer look into the System itself.
 
 ### The Task
-The test task is to create an entity to administrate branches within the administration.
-You have to create the Shopware Plugin, Entity and last but not least the actual administration vue component.
+The test task is to create an entity to administrate branches within the administration (Shopware backend). You have to create the Shopware Plugin, Entity and last but not least the actual administration vue component.
 
-Please create a private Gitlab-repository at https://gitlab.com/, where you can track progress and commit your work at the end of the day. Please make sure it is not visible to public and you give only access to the group “shape-and-shift” https://gitlab.com/shape-and-shift .
+Please create a private GiTHub-repository, where you can track progress and commit your work. Please make sure it is not visible to public and you give only access to myself "timeo-schmidt" in order not to leak the solution.
 
 You can find the documentation under https://docs.shopware.com/en/shopware-platform-dev-en
+
+As Shopware is open source, a lot of the ideas about how to approach a problem can be found in the core code as it gives a good example of how to do things, even if no detailed documentation or tutorials exist.
 
 #### Installation
 - [Installation of the development template](https://docs.shopware.com/en/shopware-platform-dev-en/system-guide/installation?category=shopware-platform-dev-en/system-guide)
@@ -95,22 +90,15 @@ You can again - Take a look at the Core code how it's done, for example within t
 ### What we expect
 Get the best out of you! Show what you are capable of. But don't do over engineering! Our goal is to see, if you're able to implement the requirements in a simple way but in high quality, which is good to maintain and improve in the future. We want to see your approach and see at which stage you are in your career currently to become an excellent developer.
 
-A good developer code goes through 4 stages:
-1. simple and wrong
-2. complex and wrong
-3. complex and right
-4. simple and right
-
 There is no real deadline for the task, but the sooner the better. But don't rush things, a high code quality is very important for us, therefore provide your best results - clean, lean high quality code!
 
 
 ### What we do
-We will check your code, quality and collaborating with you.
+We will check your code, quality and will support you with any questions you may have.
 
 ###  Why we're going this way?
-You can prove your skills and showing us your willingness, so we could compare your results with our code requirements. It is the quality that matters and we want to see your individual responsibility. I hope, this way is ok for you. If you have any questions, don't hesitate to contact me.
-
+You can prove your skills and showing us your willingness, so we could compare your results with our code requirements. It is the quality that matters and we want to see your individual responsibility. 
+I
 I know Shopware 6 is completly new for you and it may take some time to dive into it. So better ask if you don't know something instead of digging for hours and hours.
 
 Looking forward hearing back from you.
-As mentioned above, please use for further communication hello@shapeandshift.dev
