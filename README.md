@@ -1,5 +1,13 @@
 # Shopware 6 Challenge
 
+## Challenge Goal
+![Goal of the Task](goal.gif)
+
+As you can see on the gif video, the goal is to add a flag emoji to the header bar of the Shopware store that corresponds to the currently selected language.
+This task is meant to be achievable by complete Shopware newbies, however please do not worry if you get stuck, I'm happy to help - Asking is the correct way forward!
+
+The modifications to get this to work require a few lines of twig template code in the frontend, there are no major changes necessary to shopware!
+
 Follow these steps to complete the Shopware 6 challenge:
 
 ## Step 1: Setup Shopware 6 Locally
